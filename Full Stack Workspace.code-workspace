@@ -70,6 +70,18 @@
     },
     {
       "path": "7.3 CSS Flag Project"
+    },
+    {
+      "path": "8.0 CSS Display"
+    },
+    {
+      "path": "8.1 CSS Float"
+    },
+    {
+      "path": "8.2 Responsiveness"
+    },
+    {
+      "path": "8.3 Media Query"
     }
   ],
   "settings": {}
