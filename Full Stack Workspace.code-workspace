@@ -82,7 +82,12 @@
     },
     {
       "path": "8.3 Media Query"
+    },
+    {
+      "path": "8.4 Web Design Agency Project"
     }
   ],
-  "settings": {}
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "8.4 Web Design Agency Project"
+  }
 }
