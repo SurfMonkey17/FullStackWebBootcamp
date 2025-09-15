@@ -97,6 +97,9 @@
     },
     {
       "path": "10.0 Display Grid"
+    },
+    {
+      "path": "10.2 Grid Placement"
     }
   ],
   "settings": {
